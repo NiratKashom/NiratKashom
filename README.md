@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NiratKashom
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning html, css, javascript for Web developer.
+- 🌱 I’m currently learning javascript for Web developer.
 <!-- - 💞️ I’m looking to collaborate on ...--->
 <!-- - 📫 How to reach me ...--->
 
