@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @NiratKashom
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @NiratKashom.
 - 🌱 I’m currently learning javascript for Web developer.
 <!-- - 💞️ I’m looking to collaborate on ...--->
 <!-- - 📫 How to reach me ...--->
